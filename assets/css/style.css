@@ -1,0 +1,16 @@
+/* Estilos de Home*/
+.centralizar {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*Estilos de Contatos*/
+
+
