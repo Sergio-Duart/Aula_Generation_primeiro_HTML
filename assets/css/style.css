@@ -8,8 +8,30 @@
     flex-flow: row;
     justify-content: center;
     align-items: center;
+    padding: 30px;
+    border-radius: 50%;
 }
 
+.alinhamento li {
+    display: inline;
+    padding: 5px;
+}
+
+.alinhamento li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: darkblue;
+}
+
+.alinhamento li a:hover {
+    color: darkcyan;
+}
+
+.medida {
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+}
 
 /*Estilos de Contatos*/
 
